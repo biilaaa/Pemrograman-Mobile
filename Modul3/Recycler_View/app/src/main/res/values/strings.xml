@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Rycycler View</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_wiki">Wiki</string>
+
+    <string-array name="data_name">
+        <item>Antares</item>
+        <item>Harus Kawin</item>
+        <item>Kaget Nikah</item>
+        <item>Jodoh atau Bukan</item>
+        <item>Kisah untuk Geri</item>
+        <item>Mozachiko</item>
+        <item>5 Detik dan Rasa Rindu</item>
+        <item>17 Selamanya</item>
+        <item>Teluk Alaska</item>
+        <item>Dua Wajah Arjuna</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/antares</item>
+        <item>@drawable/harus_kawin</item>
+        <item>@drawable/kaget_nikah</item>
+        <item>@drawable/jodoh_bukan</item>
+        <item>@drawable/kisah_geri</item>
+        <item>@drawable/mozachiko</item>
+        <item>@drawable/rasa_rindu</item>
+        <item>@drawable/selamanya</item>
+        <item>@drawable/teluk_alaska</item>
+        <item>@drawable/wajah_arjuna</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://wetv.vip/id/play/a41kjezlclozg0i/y0040sv1hu9-EP01A%3A_Antares</item>
+        <item>https://wetv.vip/id/play/hm0734w9etht4vn-Harus%20Kawin/w0047tjoaoi-EP01A%3A%20Harus%20Kawin</item>
+        <item>https://wetv.vip/id/play/yweofusr9c2jpy2/z0041b49t19-EP01A%3A_Kaget_Nikah</item>
+        <item>https://wetv.vip/id/play/k2cb8gl9t27lpbq-Jodoh%20atau%20Bukan/h0045cixsi1-EP01A%3A%20Jodoh%20atau%20Bukan</item>
+        <item>https://wetv.vip/id/play/ns0pvt3754wv3il-Kisah%20Untuk%20Geri/p0036f3bfbj-EP01%3A%20Kisah%20Untuk%20Geri</item>
+        <item>https://wetv.vip/id/play/3qoivvzv2pbi6wt-Mozachiko/w0046wfrhc5-EP01A%3A%20Mozachiko</item>
+        <item>https://wetv.vip/id/play/yfxtx6zpngrg25j-5%20Detik%20%26%20Rasa%20Rindu/b0047d2dh1h-EP01A%3A%205%20Detik%20%26%20Rasa%20Rindu</item>
+        <item>https://wetv.vip/id/play/2s6dyeoedxdi6xc-17%20Selamanya/o00429wd0s1-EP01A%3A%2017%20Selamanya</item>
+        <item>https://wetv.vip/id/play/akwckof2lj9wjmn-Teluk%20Alaska/i0041ztcg2t-EP01A%3A%20Teluk%20Alaska</item>
+        <item>https://wetv.vip/id/play/ff3culwgrhb8q63-Dua%20Wajah%20Arjuna/k0047b3g69u-EP01A%3A%20Dua%20Wajah%20Arjuna</item>
+    </string-array>
+
+    <string-array name="data_plot">
+        <item>Series ini mengisahkan Zea, siswi baru yang berusaha mengungkap kebenaran di balik kecelakaan kakaknya yang melibatkan geng motor bernama Calderioz, yang dipimpin oleh Antares.</item>
+        <item>Mengisahkan lima sahabat yang dipaksa menikah oleh keluarga mereka. Serial ini menyoroti dilema dan tekanan sosial yang mereka hadapi dalam menghadapi pernikahan yang tidak diinginkan.</item>
+        <item>Lalita mengalami kecelakaan yang menyebabkan kehilangan keperawanannya dan terpaksa menikah dengan Andre, pemuda yang menolongnya. Pernikahan ini dijalani tanpa cinta karena desakan orang tua.</item>
+        <item>Natalie, seorang wanita stylish, hidupnya berubah saat ibunya menjodohkannya dengan anak partner bisnisnya. Serial ini mengeksplorasi dilema antara cinta dan perjodohan.</item>
+        <item>Setelah keluarganya bangkrut, Dinda, yang dulunya populer, harus menghadapi realitas baru dan menjalin hubungan dengan Geri, mantan musuhnya, dalam sebuah kontrak palsu yang berubah menjadi cinta.</item>
+        <item>Moza, siswi culun, bertekad membuat Chiko, siswa populer, jatuh cinta padanya dalam 100 hari.</item>
+        <item>Via, seorang karyawan muda, mencari artis baru untuk duet dengan Drupadi. Gana pun ditunjuk sebagai teman duet, dan mereka merilis singel yang diadaptasi dari puisi karya Via.</item>
+        <item>Dawai, gadis polos yang disukai Putra, menyimpan rahasia besar terkait masa lalu mereka yang memengaruhi hubungan mereka.</item>
+        <item>Anastasia, gadis pendiam, bertemu kembali dengan Alister, teman masa kecilnya yang kini menjadi siswa populer.</item>
+        <item>Arjuna, pria dengan wajah biasa, menemukan spray misterius yang mengubah wajahnya menjadi tampan, mengubah kehidupannya secara drastis.</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>30 Juli 2021</item>
+        <item>5 Januari 2024</item>
+        <item>23 Desember 2021</item>
+        <item>13 Januari 2023</item>
+        <item>5 Maret 2021</item>
+        <item>2 Juni 2023</item>
+        <item>8 September 2023</item>
+        <item>10 Maret 2022</item>
+        <item>5 November 2021</item>
+        <item>30 Oktober 2023</item>
+    </string-array>
+
+    <string-array name="data_cast">
+        <item>Angga Yunanda, Beby Tsabina, Irzan Faiq</item>
+        <item>Kevin Julio, Haico Van der Veken</item>
+        <item>Aurora Ribero, Kevin Julio, Steffi Zamora, Fero Walandouw</item>
+        <item>Megan Domani, Rayn Wijaya, Salshabilla Adriani</item>
+        <item>Angga Yunanda, Syifa Hadju </item>
+        <item>Rebecca Klopper, Junior Roberts, Yesaya Abraham</item>
+        <item>Prilly Latuconsina, Bryan Domani, Salshabilla Adriani</item>
+        <item>Syifa Hadju, Rizky Nazar, Steffi Zamora</item>
+        <item>Syifa Hadju, Devano Danendra, Kaneishia Yusuf</item>
+        <item>Yesaya Abraham, Beby Tsabina, Mikha Herman</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
